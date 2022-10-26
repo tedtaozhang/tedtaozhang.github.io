@@ -11,6 +11,7 @@ title                    : "Tao Zhang (张涛)"
 title_separator          : "-"
 name                     : &name "Tao Zhang"
 description              : &description "personal description"
+theme                    : jekyll-theme-minimal
 url                      : https://taozhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bcys18657/taozhang.github.io"

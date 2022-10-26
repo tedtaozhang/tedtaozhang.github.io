@@ -6,7 +6,7 @@ excerpt: 'As is well known, military operation in a combat scenario is extremely
 date: 2021-8-01
 venue: 'Journal 115'
 paperurl: 'http://bcys18657.github.io/files/An-Optimal-Task-Management.pdf'
-authors: 'Tao Zhang, Chengchao Li, Dongying Ma, Xiaodong Wang, Chaoyong Li. (2021).'
+citation: 'Tao Zhang, Chengchao Li, Dongying Ma, Xiaodong Wang, Chaoyong Li. (2021).'
 ---
 
 [Download paper here](http://bcys18657.github.io/files/An-Optimal-Task-Management.pdf)

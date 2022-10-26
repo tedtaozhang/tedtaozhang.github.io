@@ -1,7 +1,7 @@
 ---
 title: "An Optimal Task Management and Control Scheme for Military Operations with Dynamic Game Strategy"
 collection: publications
-permalink: /publication/An-Optimal-Task
+permalink: /publication/2021-08-01-paper-An-Optimal-Task
 date: 2021-8-01
 venue: 'Aerospace Science and Technology'
 citation: 'Tao Zhang, Chengchao Li, Dongying Ma, Xiaodong Wang, Chaoyong Li. (2021).'

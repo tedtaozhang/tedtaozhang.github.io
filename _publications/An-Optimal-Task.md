@@ -2,7 +2,7 @@
 title: "An Optimal Task Management and Control Scheme for Military Operations with Dynamic Game Strategy"
 collection: publications
 permalink: /publication/An-Optimal-Task
-<!-- excerpt: 'This paper is about the number 1. The number 2 is left for future work.' -->
+excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2021-10-01
 venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'

@@ -83,7 +83,7 @@ analytics:
 author:
   name             : "TAO ZHANG"
   avatar           : "profile.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : # "Your biography for the left-hand sidebar"
   location         : "Hangzhou, China"
   employer         : "Zhejiang University"
   pubmed           : 

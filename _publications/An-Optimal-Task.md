@@ -10,6 +10,6 @@ citation: 'Tao Zhang, Chengchao Li, Dongying Ma, Xiaodong Wang, Chaoyong Li. (20
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://bcys18657.github.io/files/An Optimal Task Management and Control Scheme for Military Operations with Dynamic Game Strategy.pdf)
+[Download paper here](http://bcys18657.github.io/files/An-Optimal-Task-Management.pdf)
 
 Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).

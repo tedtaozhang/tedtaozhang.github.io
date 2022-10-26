@@ -6,13 +6,13 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-theme                    : jekyll-theme-minimal
+theme                    : "jekyll-theme-minimal"
 locale                   : "en-US"
 title                    : "Tao Zhang (张涛)"
 title_separator          : "-"
 name                     : &name "Tao Zhang"
 description              : &description "personal description"
-url                      : https://bcys18657.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://taozhang97.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bcys18657/bcys18657.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"

@@ -25,13 +25,7 @@ Education
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub -->
-  
-Skills
-======
-* MATLAB
-* C++
-* Java
-* Python
+
 
 Publications
 ======
@@ -59,6 +53,13 @@ Selected Awards & Honors
 *	Second-Class Scholarship for Outstanding Students of Zhejiang University, 2019
 *	Third-class Scholarship for Outstanding Merits of Zhejiang University, 2018
 *	Third-class Scholarship for Outstanding Students of Zhejiang University, 2018
+  
+Skills
+======
+* MATLAB
+* C++
+* Java
+* Python
 
 Service
 ======

@@ -4,7 +4,6 @@ title: "About Me"
 author_profile: true
 redirect_from: 
   - /am/
-  - /aboutme.html
 ---
 
 ## Locations of key files/directories

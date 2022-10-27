@@ -29,10 +29,9 @@ Education
 Skills
 ======
 * MATLAB
-* Programming Languages
-  * C++
-  * Java
-  * Python
+* C++
+* Java
+* Python
 
 Publications
 ======
@@ -40,7 +39,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -50,8 +49,10 @@ Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Service
 ======
 * Currently a member in Skywalker Laboratory of Professor Chaoyong Li.
+
+<a href='http://bcys18657.github.io/files/CV.pdf'>Download paper here</a>

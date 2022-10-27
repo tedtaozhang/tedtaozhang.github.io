@@ -84,7 +84,7 @@ author:
   name             : "TAO ZHANG"
   avatar           : "profile.jpg"
   bio              : # "Your biography for the left-hand sidebar"
-  location         : "Hangzhou, China"
+  location         : "Yuquan Campus, Zhejiang University, Hangzhou, China"
   employer         : "Zhejiang University"
   pubmed           : 
   googlescholar    : # "http://yourfullgooglescholarurl.com"
@@ -176,18 +176,18 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
+#   teaching:
+#     output: true
+#     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+#   talks:
+#     output: true
+#     permalink: /:collection/:path/
 
 
 # Defaults

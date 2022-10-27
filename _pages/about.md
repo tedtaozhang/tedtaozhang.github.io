@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a master student in the [College of Electrical Engineering](http://ee.zju.edu.cn/englishee/main.htm), [Zhejiang University](https://www.zju.edu.cn/english/), advised by [Prof. Chaoyong Li](https://person.zju.edu.cn/chaoyong). I am affiliated with Skywalker Laboratory. Before that, I received my bachelor degree in Automation from Zhejiang University and continued my study through postgraduate recommendation.
+My Chinese name is 张涛 (pronounced 'Zhang Tao'). I am a master student in the [College of Electrical Engineering](http://ee.zju.edu.cn/englishee/main.htm), [Zhejiang University](https://www.zju.edu.cn/english/), advised by [Prof. Chaoyong Li](https://person.zju.edu.cn/chaoyong). I am affiliated with Skywalker Laboratory. Before that, I received my bachelor degree in Automation from Zhejiang University and continued my study through postgraduate recommendation.
 
 About My Work
 -----

@@ -65,4 +65,4 @@ Service
 ======
 * Currently a researcher in Skywalker Laboratory of [Professor Chaoyong Li](https://person.zju.edu.cn/chaoyong).
 
-<a href='http://bcys18657.github.io/files/CV.pdf'>Download my CV here</a>
+<a href='http://tedtaozhang.github.io/files/CV.pdf'>Download my CV here</a>

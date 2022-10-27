@@ -51,8 +51,17 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
   
+Selected Awards & Honors
+======
+* Outstanding Graduate Student of Zhejiang University, 2021
+*	Outstanding Graduate Merit of Zhejiang University, 2021
+*	Second-Class Scholarship for Outstanding Merits of Zhejiang University, 2019
+*	Second-Class Scholarship for Outstanding Students of Zhejiang University, 2019
+*	Third-class Scholarship for Outstanding Merits of Zhejiang University, 2018
+*	Third-class Scholarship for Outstanding Students of Zhejiang University, 2018
+
 Service
 ======
-* Currently a member in Skywalker Laboratory of Professor Chaoyong Li.
+* Currently a member in Skywalker Laboratory of [Professor Chaoyong Li](https://person.zju.edu.cn/chaoyong).
 
 <a href='http://bcys18657.github.io/files/CV.pdf'>Download paper here</a>

@@ -8,7 +8,7 @@
 # Site Settings
 theme                    : jekyll-theme-minimal
 locale                   : "en-US"
-title                    : "Ted Zhang (张涛)"
+title                    : "Ted Tao Zhang (张涛)"
 title_separator          : "-"
 name                     : &name "Tao Zhang"
 description              : &description "personal description"

@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research"
+title: ""
 permalink: /research/
 author_profile: true
 redirect_from:
@@ -9,5 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-Control Scheme in Swarm Operations Based on Game Theory (Project leader)
+Current Projects
+====
+
+* Control Scheme in Swarm Operations Based on Game Theory
 ---

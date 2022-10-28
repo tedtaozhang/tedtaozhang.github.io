@@ -7,7 +7,7 @@ date: 2021-8-1
 status: Published
 venue: 'Aerospace Science and Technology'
 paperurl: 'http://bcys18657.github.io/files/An-Optimal-Task.pdf'
-author: 'Tao Zhang, Chengchao Li, Dongying Ma, Xiaodong Wang, Chaoyong Li.'
+author: 'Tao Zhang*, Chengchao Li, Dongying Ma, Xiaodong Wang, Chaoyong Li.'
 ---
 
 <a href='http://tedtaozhang.github.io/files/An-Optimal-Task.pdf'>Download paper here</a>

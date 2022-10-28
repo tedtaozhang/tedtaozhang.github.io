@@ -7,7 +7,7 @@ date: 2022-10-1
 status: Currently Under Review
 venue: 'IEEE Transactions on Aerospace and Electronic Systems'
 paperurl: 'http://bcys18657.github.io/files/Toward-Rapid.pdf'
-author: 'Tao Zhang, Dongying Ma, Chaoyong Li, Xiaodong Wang'
+author: 'Tao Zhang*, Dongying Ma, Chaoyong Li, Xiaodong Wang'
 ---
 
 <!-- <a href='http://tedtaozhang.github.io/files/Toward-Rapid.pdf'>Download paper here</a> -->

@@ -27,10 +27,11 @@ My last name is Zhang (张), one of the oldest Chinese surnames. My first name i
 
 <center>
 <img src='/images/cubli.jpg'  width="20%">
-
-<font size=2>Cubli</font>
 </center>
 
+<center>
+<font size=2>Cubli</font>
+</center>
 
 **Hobbies**
 

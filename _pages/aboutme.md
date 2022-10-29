@@ -26,7 +26,7 @@ My last name is Zhang (张), one of the oldest Chinese surnames. My first name i
 * I've built a self-balance robot – Cubli, the representative work in my undergraduate, which could maintain balance on its edge.
 
 <center>
-<img src='/images/cubli.jpg'  width=20%>
+<img src='/images/cubli.jpg'  width="20%">
 
 <font size=2>Cubli</font>
 </center>

@@ -6,7 +6,7 @@ excerpt: 'The decision and control problem for swarm operations is crucial for a
 date: 2022-10-1
 status: Currently Under Review
 venue: 'IEEE Transactions on Aerospace and Electronic Systems'
-paperurl: 'http://bcys18657.github.io/files/Toward-Rapid.pdf'
+paperurl: 'http://tedtaozhang.github.io/files/Toward-Rapid.pdf'
 author: 'Tao Zhang*, Dongying Ma, Chaoyong Li, Xiaodong Wang'
 ---
 

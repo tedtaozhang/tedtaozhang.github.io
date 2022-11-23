@@ -6,7 +6,7 @@ excerpt: 'As is well known, military operation in a combat scenario is extremely
 date: 2021-8-1
 status: Published
 venue: 'Aerospace Science and Technology'
-paperurl: 'http://bcys18657.github.io/files/An-Optimal-Task.pdf'
+paperurl: 'http://tedtaozhang.github.io/files/An-Optimal-Task.pdf'
 author: 'Tao Zhang*, Chengchao Li, Dongying Ma, Xiaodong Wang, Chaoyong Li.'
 ---
 

@@ -46,6 +46,8 @@
             <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
           {% elsif post.status == 'Currently Under Review' %}
             <p><i>{{ post.venue }}</i> (Currently Under Review)</p>
+          {% elsif page.status == 'Accepted' %}
+            <p><i>Accepted</i></p>
           {% endif %}
           <p>Authors: {{ post.author }} </p>
         {% elsif post.date %}

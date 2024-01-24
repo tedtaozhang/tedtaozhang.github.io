@@ -8,7 +8,7 @@ redirect_from:
 
 **My Name**
 
-My last name is Zhang (张), one of the oldest Chinese surnames. My first name is Tao (涛), meaning 'tide' in English. So my English name is Ted.
+My last name is Zhang (张), one of the oldest Chinese surnames. My first name is Tao (涛), meaning 'tide' in English.
 
 **Growth Experience**
 
@@ -17,11 +17,11 @@ My last name is Zhang (张), one of the oldest Chinese surnames. My first name i
 * My father is also a calligrapher and writes a beautiful hand. I admire him but, unfortunately, my handwriting is ugly.
 * My mother graduated from high school but was unable to continue her education in college due to poverty. But she is very smart and has a strong memory.
 * I have a younger brother who is smarter than me and also an undergraduate at Zhejiang University.
-* I have a beautiful girlfriend, and we have been classmates since high school.
+* I have a beautiful wife, and we have been classmates since high school.
 
 **Learning Experience**
 
-* I was enrolled in Zhejiang University through College Entrance Examination in 2016. I competed with nearly 1 million candidates and ranked top 0.05%.
+* I was enrolled in Zhejiang University through College Entrance Examination in 2016.
 * I majored in Civil Engineering in my first college year and transferred to Automation due to my lack of interest in Civil Engineering. I never regret that.
 * I've built a self-balance robot – Cubli, the representative work in my undergraduate, which could maintain balance on its edge.
 

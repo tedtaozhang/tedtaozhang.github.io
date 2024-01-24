@@ -11,8 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in College of Electrical Engineering, Zhejiang University, 2020
-* M.S. in College of Electrical Engineering, Zhejiang University, 2023 (Expected) 
+* Ph.D. student in the Department of Electrical and Computer Engineering, McGill University, Canada, from 2023
+* M.Eng. in College of Electrical Engineering, Zhejiang University, China, 2023
+* B.Eng. in College of Electrical Engineering, Zhejiang University, China, 2020
 
 <!-- Work experience
 ======
@@ -63,6 +64,6 @@ Skills
 
 Service
 ======
-* Currently a researcher in Skywalker Laboratory of [Professor Chaoyong Li](https://person.zju.edu.cn/chaoyong).
+* Currently a Ph.D. student in [CIM]](https://www.mcgill.ca/cim/).
 
 <a href='http://tedtaozhang.github.io/files/CV.pdf'>Download my CV here</a>

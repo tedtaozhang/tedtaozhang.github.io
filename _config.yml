@@ -8,7 +8,7 @@
 # Site Settings
 theme                    : jekyll-theme-minimal
 locale                   : "en-US"
-title                    : "Ted Tao Zhang (张涛)"
+title                    : "Tao Zhang (张涛)"
 title_separator          : "-"
 name                     : &name "Tao Zhang"
 description              : &description "Tao's Website."
@@ -83,12 +83,12 @@ analytics:
 author:
   name             : "TAO ZHANG"
   avatar           : "profile.jpg"
-  bio              : "A master's student of Zhejiang University"
-  location         : "Hangzhou, China"
+  bio              : "Ph.D. student at McGill University"
+  location         : "Montreal, Canada"
 #   employer         : "Zhejiang University"
   pubmed           : 
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "zhangtao1997@zju.edu.cn"
+  email            : "tao.zhang6@mail.mcgill.ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
